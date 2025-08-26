@@ -19,6 +19,14 @@ A Java-based puzzle game similar to Candy Crush, featuring match-three mechanics
 4. Use the hint button for help (costs double points)
 5. Game ends when no more valid moves remain
 
+## Game Controls
+
+-Mouse: Click edges of balls to swap with adjacent balls
+
+-Hint Button: Reveals a valid move (penalty applies)
+
+-Timer Controls: Set hours/minutes, start/stop countdown
+
 ## Installation & Running
 
 ### Prerequisites
@@ -30,3 +38,18 @@ A Java-based puzzle game similar to Candy Crush, featuring match-three mechanics
    ```bash
    git clone https://github.com/Underwater2007/CandyCrush-Replica.git
    cd CandyCrush-Replica
+
+## Technical Skills Demonstrated
+
+-Object-Oriented Programming: Clean class hierarchy with encapsulation and inheritance
+
+-Java Swing GUI: Custom components, event handling, and graphics rendering
+
+-Multithreading: Non-blocking animations and timer functionality
+
+-Algorithm Design: Complex chain detection and game logic
+
+-Audio Integration: Java Sound API implementation
+
+-Event-Driven Programming: Mouse and keyboard interaction handling
+
