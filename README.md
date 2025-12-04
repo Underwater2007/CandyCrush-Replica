@@ -27,18 +27,6 @@ A Java-based puzzle game similar to Candy Crush, featuring match-three mechanics
 
 -Timer Controls: Set hours/minutes, start/stop countdown
 
-## Installation & Running
-
-### Prerequisites
-- Java JDK 8 or higher
-- Audio file support
-
-### Steps
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/Underwater2007/CandyCrush-Replica.git
-   cd CandyCrush-Replica
-
 ## Technical Skills Demonstrated
 
 -Object-Oriented Programming: Clean class hierarchy with encapsulation and inheritance
